@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+ - This organingations contains 4 types of reposetories
+    - xyz_learnings
+    - xyz_experiments
+    - xyz_stater
+    - xyz_testing
+
 <!--
 
 **Here are some ideas to get you started:**
