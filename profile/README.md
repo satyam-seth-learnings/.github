@@ -5,6 +5,7 @@
     - xyz_experiments
     - xyz_stater
     - xyz_testing
+    - xyz_projects
 
 <!--
 
