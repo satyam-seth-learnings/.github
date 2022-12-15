@@ -3,7 +3,7 @@
  - This organingations contains 4 types of reposetories
     - xyz_learnings
     - xyz_experiments
-    - xyz_stater
+    - xyz_starter
     - xyz_testing
     - xyz_projects
 
