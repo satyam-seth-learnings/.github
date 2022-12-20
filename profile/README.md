@@ -1,11 +1,12 @@
 ## Hi there 👋
 
- - This organingations contains 4 types of reposetories
+ - This organingations contains 6 types of reposetories
     - xyz_learnings
     - xyz_experiments
     - xyz_starter
     - xyz_testing
     - xyz_projects
+    - others_deploy 
 
 <!--
 
