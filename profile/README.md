@@ -1,7 +1,7 @@
 ## Hi there 👋
 
  - This organingations contains 6 types of reposetories
-    - xyz_learnings
+    - xyz_learning
     - xyz_experiments
     - xyz_starter
     - xyz_testing
