@@ -6,7 +6,8 @@
     - xyz_starter
     - xyz_testing
     - xyz_projects
-    - others_deploy 
+    - xyz_deploy
+    - xyz_publish
 
 <!--
 
